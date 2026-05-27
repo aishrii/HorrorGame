@@ -1,0 +1,29 @@
+# Visual Studio / Rider
+.vs/
+.idea/
+.vscode/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Build files
+Build/*
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
